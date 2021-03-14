@@ -2,7 +2,7 @@
 
 #### 🚀 About
 - 🎓 Majoring in Computer Science
-- 🔭 I'm currently working on [Owle](https://github.com/owleapp)
-- 🌱 I'm currently learning **Docker & Go**
-- ⚙️ I use daily: `.py`, `.go`, `.java`, `.json`, `.js`.
-- 🥅 Goals: Contribute to Open Source 
+- 🔭 Currently working on [Owle](https://github.com/owleapp)
+- 🌱 Currently learning **C & Assembly**
+- ⚙️ I use daily: `.py`, `.go`, `.java`, `.json`.
+- 🥅 Goals: Contribute to open source 
