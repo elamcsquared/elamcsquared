@@ -3,6 +3,5 @@
 #### 🚀 About
 - 🎓 Majoring in Computer Science
 - 🔭 Currently working on [Owle](https://github.com/owleapp)
-- 🌱 Currently learning **Solidity & C**
+- 🌱 Currently learning **Solidity**
 - ⚙️ I use daily: `.py`, `.go`, `.java`, `.json`.
-- 🥅 Goals: Contribute to open source 
