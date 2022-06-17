@@ -1,7 +1,10 @@
-### Hi, I'm Elam 👋
+### Hi there 👋
 
-#### 🚀 About
-- 🎓 Majoring in Computer Science
-- 🔭 Currently working on [Owle](https://github.com/owleapp)
-- 🌱 Currently learning **C++**
-- ⚙️ I use daily: `.py`, `.go`, `.java`.
+
+🎓 &nbsp;Majoring in Computer Science
+
+🔭 &nbsp;Currently working on [Owle](https://github.com/owleapp) - Your all-in-one cloud storage companion, built for Slack.
+
+👨🏻‍💻 &nbsp; Currently learning **Kubernetes**
+
+🧗🏻‍♂️ &nbsp; Sports fanatic
