@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🎓 &nbsp;Majoring in Computer Science
+🎓 &nbsp; Majoring in Computer Science
 
-🔭 &nbsp;Currently working on [Owle](https://github.com/owleapp) - A cloud storage companion, built for Slack.
+🔭 &nbsp; Working on [Owle](https://github.com/owleapp) - A cloud storage companion, built for Slack.
 
 👨🏻‍💻 &nbsp; Currently learning **Kubernetes** & **Go**
 
