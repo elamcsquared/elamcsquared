@@ -3,6 +3,6 @@
 
 🎓 &nbsp; Majoring in Computer Science
 
-👨🏻‍💻 &nbsp; Currently learning **Kubernetes** & **Go**
+👨🏻‍💻 &nbsp; Currently learning **Go**
 
 🧗🏻‍♂️ &nbsp; Sports enthusiast
