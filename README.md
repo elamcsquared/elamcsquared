@@ -1,4 +1,4 @@
-Some facts about me:
+Some facts
 * Majoring in Computer Science
 * Currently learning Go
 * In the process of mastering Vim
