@@ -3,4 +3,4 @@
 Fun Facts:
 - Majoring in Computer Science
 - In the process of mastering Vim
-- Full-time sports enthusiast
+- Full-time coffee connoisseur
