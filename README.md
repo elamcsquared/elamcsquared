@@ -1,3 +1,3 @@
 <samp>
-  I build tools from time to time. Busy configuring Vim
+  Building tools and configuring Vim
 </samp>
