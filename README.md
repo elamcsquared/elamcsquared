@@ -1,3 +1,3 @@
 <samp>
-  Building tools and configuring Vim
+  Tool builder, compiler enthusiast, full-time Vim user
 </samp>
